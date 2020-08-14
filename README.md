@@ -1,13 +1,13 @@
 # Autofeedback
 
-##Introduction
+## Introduction
 A program with minimalist GUI which automates the feedback submission of PIEAS University
 
-##Latest Release
+## Latest Release
 v3.0
 
-##Screenshot
-[autofeedback_program_ss](https://i.imgur.com/7tgygpk.jpg)
+## Screenshot
+![autofeedback_program_ss](https://i.imgur.com/7tgygpk.jpg)
 
 ##Some History
 Due to the long and uninteresting feedback set by our university two programmers from PIEAS university decided to step up. 
