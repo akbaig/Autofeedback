@@ -4,7 +4,7 @@
 A program with minimalist GUI which automates the feedback submission of PIEAS University
 
 ## Latest Release
-v3.0
+**v3.0**
 
 ## Screenshot
 ![autofeedback_program_ss](https://i.imgur.com/7tgygpk.jpg)
