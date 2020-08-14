@@ -5,6 +5,8 @@ A program with minimalist GUI which automates the feedback submission of PIEAS U
 
 ## Requirements
 
+- Potato PC
+- 64-bit Windows 10 **(no support for 32-bit Windows for now)** 
 - Google Chrome v84 **(Latest)**
 
 ## Latest Release
