@@ -16,5 +16,5 @@ it does the work in a matter of seconds which previously took half an hour!
 
 ## Credits
 
-- Shaharyar (Laughing-Kid)
-- Akbaig (Sagittarius)
+- *Shaharyar* (Laughing-Kid)
+- *Akbaig* (Sagittarius)
