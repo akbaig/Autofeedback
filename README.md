@@ -3,6 +3,10 @@
 ## Introduction
 A program with minimalist GUI which automates the feedback submission of PIEAS University
 
+## Requirements
+
+- Google Chrome **v84** (Latest)
+
 ## Latest Release
 **v3.0**
 
