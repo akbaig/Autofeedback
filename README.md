@@ -5,7 +5,7 @@ A program with minimalist GUI which automates the feedback submission of PIEAS U
 
 ## Requirements
 
-- Google Chrome **v84** (Latest)
+- Google Chrome v84 **(Latest)**
 
 ## Latest Release
 **v3.0**
