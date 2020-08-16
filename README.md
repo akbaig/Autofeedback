@@ -10,7 +10,7 @@ A program with minimalist GUI which automates the feedback submission of PIEAS U
 - Google Chrome v84 **(Latest)**
 
 ## Latest Release
-**v3.0**
+**v3.1**
 
 ## Screenshot
 ![autofeedback_program_ss](https://i.imgur.com/7tgygpk.jpg)
