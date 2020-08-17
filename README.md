@@ -7,10 +7,10 @@ A program with minimalist GUI which automates the feedback submission of PIEAS U
 
 - Potato PC
 - 64-bit Windows **(no support for 32-bit Windows for now)** 
-- Google Chrome
+- Google Chrome ~~**(only v84 - *Latest*)**~~
 
 ## Latest Release
-**v3.1**
+**v3.4**
 
 ## Screenshot
 ![autofeedback_program_ss](https://i.imgur.com/7tgygpk.jpg)
