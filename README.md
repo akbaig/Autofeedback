@@ -10,7 +10,7 @@ A program with minimalist GUI which automates the feedback submission of PIEAS U
 - Microsoft Edge or Google Chrome ~~**(only v84 - *Latest*)**~~
 
 ## Latest Release
-**v3.4**
+**v3.4.3**
 
 ## Screenshot
 ![autofeedback_program_ss](https://i.imgur.com/7tgygpk.jpg)
