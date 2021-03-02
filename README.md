@@ -27,3 +27,8 @@ it does the work in a matter of seconds which previously took half an hour!
 
 - **Shaharyar** (Laughing-Kid)
 - **Akbaig** (Sagittarius)
+
+## Additional Notes:
+
+The program can take upto 2 minutes to fully load depending upon your connection speed. 
+This is due to downloading of webdriver if one doesn't exists in your computer already.  
