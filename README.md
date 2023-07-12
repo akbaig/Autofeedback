@@ -7,7 +7,7 @@ A program with minimalist GUI which automates the feedback submission of PIEAS U
 https://github.com/akbaig/Autofeedback/releases/download/v3.4.5/autofeedv3.4.5.zip
 
 ## Tutorial (How to use)
-https://youtu.be/hg0khGFO6OM
+https://www.youtube.com/watch?v=hg0khGFO6OM
 
 ## Requirements
 
